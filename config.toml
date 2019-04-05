@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Vanilla"
+title = "The Game Audio Club"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 
@@ -50,6 +50,6 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
+  homeText = "Fuck"
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
