@@ -25,31 +25,31 @@ googleAnalytics = "UA-123456789-1"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Blog"
-    pre = "edit"
-    url = "/post/"
-    weight = 2
-  [[menu.nav]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
+    name = "Archive"
+    pre = "film"
+    url = "/archive/"
     weight = 3
   [[menu.nav]]
-    name = "About"
-    pre = "smile"
-    url = "/about/"
+    name = "Resources"
+    pre = "book"
+    url = "/resources/"
     weight = 4
   [[menu.nav]]
-    name = "RSS"
-    pre = "rss"
-    url = "/index.xml"
+    name = "Contact"
+    pre = "mail"
+    url = "/contact/"
     weight = 5
+  [[menu.nav]]
+    name = "Live Stream"
+    pre = "cast"
+    url = "/stream/"
+    weight = 2
 
 [params]
-  includeBootstrapJs = false
+  includeBootstrapJs = true
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Fuck"
+  homeText = "Shoreline Game Audio Club"
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
-  hideFooter = false
+  hideFooter = true
