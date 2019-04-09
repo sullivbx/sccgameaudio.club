@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://www.sccgameaudio.club"
 languageCode = "en-us"
 title = "The Game Audio Club"
 theme = "vanilla-bootstrap-hugo-theme"
