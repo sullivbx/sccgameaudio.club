@@ -3,31 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/archive/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>http://www.sccgameaudio.club/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>http://www.sccgameaudio.club/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/resources/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/stream/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://www.sccgameaudio.club/</loc>
     <priority>0</priority>
   </url>
   
