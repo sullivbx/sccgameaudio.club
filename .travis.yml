@@ -5,7 +5,7 @@ install:
 before_script:
   - rm -rf public
 script:
-  -hugo
+  - hugo
 branches:
  only:
  - master
