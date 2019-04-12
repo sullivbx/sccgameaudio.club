@@ -1,6 +1,6 @@
 baseURL = "http://www.sccgameaudio.club"
 languageCode = "en-us"
-title = "The Game Audio Club"
+title = "The Game Audio Club Updates"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 
@@ -50,6 +50,6 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Shoreline Game Audio Club"
+  homeText = "Shoreline Game Audio Club Updates"
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = true
