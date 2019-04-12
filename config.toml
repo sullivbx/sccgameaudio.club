@@ -27,7 +27,7 @@ googleAnalytics = "UA-123456789-1"
   [[menu.nav]]
     name = "Archive"
     pre = "film"
-    url = "/archive/"
+    url = "https://www.sccgameaudio.club/stream/"
     weight = 3
   [[menu.nav]]
     name = "Resources"
