@@ -7,3 +7,5 @@ title: Hello Cool person!
 ---
 
 We're audio students who want to build sustainable and fulfilling careers in the interactive media industry. Hello again! What the fuck!
+
+What the fuck!
