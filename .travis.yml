@@ -9,3 +9,8 @@ script:
 branches:
  only:
  - master
+ deploy:
+  provider: gcs
+  access_key_id: "GOOGFFIH5W6GRMBDJ3FLHV7Q"
+  secret_access_key: "uf0v6szLUcdoSAOU28QWn43FXEJo7q+hTKiMgHUV"
+  bucket: "sgac-web"
