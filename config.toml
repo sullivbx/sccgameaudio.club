@@ -1,4 +1,4 @@
-baseURL = "https://priceless-snyder-5373a1.netlify.com"
+baseURL = "https://priceless-snyder-5373a1.netlify.com/"
 languageCode = "en-us"
 title = "The Game Audio Club Updates"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -27,7 +27,7 @@ googleAnalytics = "UA-123456789-1"
   [[menu.nav]]
     name = "Archive"
     pre = "film"
-    url = "https://www.sccgameaudio.club/stream/"
+    url = "/archive/"
     weight = 3
   [[menu.nav]]
     name = "Resources"
