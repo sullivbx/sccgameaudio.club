@@ -1,11 +1,9 @@
 ---
-title: Hello Cool person!
+title: Hello cool person!
 ---
  
 
-### Welcome to the Shoreline Game Audio Clubs!
+### Welcome to the Shoreline Game Audio Club!
 ---
 
-We're audio students who want to build sustainable and fulfilling careers in the interactive media industry. Hello again! What the fuck!
-
-What the fuck!
+We're audio students who want to build sustainable and fulfilling careers in the interactive media industry.
